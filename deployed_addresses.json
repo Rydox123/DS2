@@ -1,0 +1,14 @@
+{
+  "localhost": {
+    "contract": "0x63eE8865A8B25919B5103d02586AaaF078Ee9102",
+    "aaveProvider": "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e",
+    "uniswapV2Router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "sushiswapRouter": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F"
+  },
+  "sepolia": {
+    "contract": "0x34BB7eFCd482EaA748bd4f345047De4805de132F",
+    "aaveProvider": "0x012bAC54348C0E635dCAc9D5FB99f06F24136C9A",
+    "uniswapV2Router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+    "sushiswapRouter": "0xeaBcE3E74EF41FB40024a21Cc2ee2F5dDc615791"
+  }
+}
